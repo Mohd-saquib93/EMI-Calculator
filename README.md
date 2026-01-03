@@ -26,4 +26,4 @@ CSS – Styling
 
 JavaScript – Calculation logic
 
-React – UI rendering (if applicable)
+React – UI rendering
