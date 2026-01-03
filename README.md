@@ -1,16 +1,29 @@
-# React + Vite
+🏠 Mortgage EMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and user-friendly Mortgage / EMI Calculator that helps users calculate their monthly loan installment (EMI) by entering the principal amount, interest rate, and loan duration.
 
-Currently, two official plugins are available:
+This project is built to demonstrate basic frontend development skills, including form handling, real-time calculations, and clean UI design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+📌 Input for Principal Amount
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📈 Input for Interest Rate
 
-## Expanding the ESLint configuration
+⏳ Input for Loan Duration (Years)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💰 Instant calculation of Monthly EMI
+
+⚡ Real-time result updates
+
+🎨 Clean and minimal user interface
+
+🛠️ Tech Stack
+
+HTML – Structure
+
+CSS – Styling
+
+JavaScript – Calculation logic
+
+React – UI rendering (if applicable)
